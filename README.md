@@ -29,3 +29,9 @@
 김보람 : Chapter 2(옵저버 패턴)
 
 김경미 : Chapter 3(데코레이션 패턴)
+
+#### 3주차 - Chapter 4, Chapter 5
+
+김승혜 : Chapter 4(팩토리 패턴)
+
+김보람 : Chapter 5(싱글턴 패턴)
