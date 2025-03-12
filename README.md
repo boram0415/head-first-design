@@ -35,3 +35,9 @@
 김승혜 : Chapter 4(팩토리 패턴)
 
 김보람 : Chapter 5(싱글턴 패턴)
+
+#### 4주차 - Chapter 6, Chapter 7
+
+황정목 : Chapter 6(커맨드 패턴)
+
+김승혜 : Chapter 7(어댑터 패턴과 퍼사드 패턴)
