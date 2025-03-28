@@ -47,3 +47,9 @@
 최준석 : Chapter 8(템플릿 메소드 패턴)
 
 김보람 : Chapter 9(반복자 패턴)
+
+#### 6주차 - Chapter 9(컴포지트 패턴), Chapter 10
+
+황정목 : Chapter 9(컴포지트 패턴)
+
+김경미 : Chapter 10(상태 패턴)
