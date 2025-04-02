@@ -53,3 +53,9 @@
 황정목 : Chapter 9(컴포지트 패턴)
 
 김경미 : Chapter 10(상태 패턴)
+
+#### 7주차 - Chapter 11, Chapter 12
+
+최준석 : Chapter 11(프록시 패턴)
+
+김승혜 : Chapter 12(복합 패턴)
