@@ -59,3 +59,9 @@
 최준석 : Chapter 11(프록시 패턴)
 
 김승혜 : Chapter 12(복합 패턴)
+
+#### 8주차 - Chapter 13, Chapter 14
+
+김보람 : Chapter 13(실전 디자인 패턴)
+
+황정목 : Chapter 14(기타 패턴턴)
